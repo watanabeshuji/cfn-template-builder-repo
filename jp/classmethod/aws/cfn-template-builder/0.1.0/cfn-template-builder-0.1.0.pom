@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jp.classmethod.aws</groupId>
   <artifactId>cfn-template-builder</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <dependencies>
     <dependency>
       <groupId>org.codehaus.groovy</groupId>

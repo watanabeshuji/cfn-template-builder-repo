@@ -2,11 +2,11 @@
 <metadata>
   <groupId>jp.classmethod.aws</groupId>
   <artifactId>cfn-template-builder</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <versioning>
     <versions>
-      <version>0.1.0-SNAPSHOT</version>
+      <version>0.1.0</version>
     </versions>
-    <lastUpdated>20140909022304</lastUpdated>
+    <lastUpdated>20140909025359</lastUpdated>
   </versioning>
 </metadata>
